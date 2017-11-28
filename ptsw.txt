@@ -2,8 +2,9 @@ OBJECT Table 82 Item Journal Template
 {
   OBJECT-PROPERTIES
   {
-    Date=13.02.07;
-    Time=12:00:00;
+    Date=28.11.17;
+    Time=12:57:19;
+    Modified=Yes;
     Version List=NAVW15.00;
   }
   PROPERTIES
@@ -226,6 +227,7 @@ OBJECT Table 82 Item Journal Template
                                                               ITS=Nome report registro whse.;
                                                               FRS=Nom ‚tat historique transactions magasin];
                                                    Editable=No }
+    { 50000;  ;Test ID             ;Code20         }
   }
   KEYS
   {
